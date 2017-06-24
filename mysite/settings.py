@@ -1,4 +1,3 @@
-
 import os
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
@@ -14,7 +13,7 @@ SECRET_KEY = '^6jd&3%00ynd&b7zau62m+b_46c=+lgxzh0i%1#qq6@gcf$hwz'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost','nsieber.pythonanywhere.com']
 
 
 # Application definition
